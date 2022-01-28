@@ -1,0 +1,66 @@
+
+
+.image{
+    display: block;
+    margin: 0 auto;
+    height: auto;
+    width: 100px;
+}
+
+
+.clip-path{
+    clip-path: circle(53.6% at 50% 50%);
+}
+svg{
+    height: 20px;
+    width: 20px; 
+}
+.svg1{
+    color: rgb(23, 127, 212);
+}
+.svg2{
+    color: rgb(182, 20, 52);
+}
+.svg3{
+    color: rgb(29, 170, 29);
+}
+
+.row1{
+    height: auto;
+    width: 70%;
+    display: flex;
+    margin-left: 20px;
+    flex-direction: column;
+}
+
+.box1, .box2, .box3, .box4{
+    display: flex;
+}
+
+.row1 svg{
+    height: 25px;
+    width: 25px;
+    margin-top: 5px;
+}
+.row1 h4{
+    margin-top: 4px;
+}
+
+.row1 h3{
+    color: rgb(92, 92, 92);
+}
+
+.row1 a:hover{
+    text-decoration: none;
+    color: rgb(19, 177, 19);
+}
+
+.box3 a:hover{
+    color: rgb(218, 53, 53);
+}
+
+.image1 {
+    height:400px;
+    width: 700px;
+   
+}
